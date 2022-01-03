@@ -1,2 +1,2 @@
 # mern_real_start
-Created with CodeSandbox
+Only one real good simple mern starter
